@@ -1,0 +1,9 @@
+export 'mainScreen.dart';
+export 'processlifting/customerscreen.dart';
+export 'processlifting/statusscreen.dart';
+export 'processlifting/evidencesscreen.dart';
+export 'processlifting/actividadesscreen.dart';
+export 'processlifting/reportscreen.dart';
+export 'serviceslifting/mainservices.dart';
+export 'serviceslifting/panelgeneralservices.dart';
+export 'serviceslifting/widgets/widgets.dart';

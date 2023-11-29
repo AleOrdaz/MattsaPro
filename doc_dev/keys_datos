@@ -1,0 +1,9 @@
+NOTA: No se debe de compartir estas claves
+
+nom_key: key_mattsa.jks
+key_alias: key_mattsa_pro
+password: Mattsa_23_pro!
+password: Mattsa_23_pro!
+
+Instrucciones por si se requiere cambiar la llave
+https://esflutter.dev/docs/deployment/android
